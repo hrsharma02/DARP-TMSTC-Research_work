@@ -1,0 +1,8 @@
+method,Mean Energy (J),Std Dev (J),N
+Auction-based,10857.0,6412.0,48
+Boustrophedon,10182.0,6014.0,48
+DARP+TMSTC,9448.0,5560.0,48
+Grid,10182.0,6014.0,48
+MARL,9791.0,5761.0,48
+MSTC,10182.0,6014.0,48
+Random,10182.0,6014.0,48
